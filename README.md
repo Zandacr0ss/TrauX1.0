@@ -1,6 +1,5 @@
-# TrauX1.0
-
-
-This is My First Repository / Test Repository
-Nothing New here
+Hello world
+This is my first repository
+Nothig new here
+but as i'll learn github i'll add new programs and contribute to other projects
 Bye
